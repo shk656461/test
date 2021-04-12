@@ -17,7 +17,7 @@
 
 4\. Open localhost:8080 to see the app.
 
-5\. Production build 
+5\. Production build (installation is generated in dist directory)
   ```
   npm run build
   ```
